@@ -28,7 +28,7 @@ next
     also have "... = x + Suc y" by (simp)
     finally show "soma x (Suc y) = x + Suc y" by (simp)
   qed
-qed
+qed (*erro*)
 
 
 
